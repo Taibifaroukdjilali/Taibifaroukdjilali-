@@ -12,17 +12,14 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://github.com/taibifarouk100-jpg">
-    <img src="https://img.shields.io/github/followers/taibifarouk100-jpg?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/Taibifaroukdjilali">
+    <img src="https://img.shields.io/github/followers/Taibifaroukdjilali?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.linkedin.com/in/taibi-farouk-023a40319/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:taibifarouk100@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://taibifaroukdjilali.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
@@ -31,7 +28,7 @@
 
 <!-- VIEWS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taibifarouk100-jpg&label=👁️%20Profile%20Views&color=00B4DB&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Taibifaroukdjilali&label=👁️%20Profile%20Views&color=00B4DB&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
