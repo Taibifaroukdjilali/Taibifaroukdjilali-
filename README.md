@@ -1,4 +1,3 @@
-# Taibifaroukdjilali-
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Taibi%20Farouk%20Djilali&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
@@ -25,7 +24,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="#">
+  <a href="https://taibifaroukdjilali.github.io/">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
